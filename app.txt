@@ -1,2 +1,9 @@
 Collaboration Demo Project
 Version 1.0
+
+New feature: Task Management
+
+Description: Users can create, view, delete and manage their tasks.
+
+Task Management Workflow:
+Users can mark tasks as completed to track their progress.
