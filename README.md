@@ -40,6 +40,14 @@ collaboration-demo/
 
 This project uses GitHub Actions to run a simple CI workflow on every push and pull request.
 
+## Running CI Workflow
+
+The CI workflow runs automatically when:
+- Code is pushed to the repository.
+- A pull request is opened or updated.
+
+You can check the workflow results in the GitHub Actions tab.
+
 ## License
 
 This project is for educational purposes.
